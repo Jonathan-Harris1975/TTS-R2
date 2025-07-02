@@ -1,5 +1,0 @@
-R2_ENDPOINT=https://3fb60a7136e950a7ec74959b45e4635e.r2.cloudflarestorage.com\
-R2_BUCKET=podcasts\
-R2_ACCESS_KEY=11c628c7846a26484c740a91bd72b0fa\
-R2_SECRET_KEY=6fee0868b49e21d411471036c1738212168f14d263696a9af0b7bd18f9013ff1\
-node scripts/uploadFolderToR2.mjs dist
